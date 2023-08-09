@@ -28,70 +28,70 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.bntMessageBox1 = new System.Windows.Forms.Button();
-            this.bntMessageBox2 = new System.Windows.Forms.Button();
-            this.bntMessageBox3 = new System.Windows.Forms.Button();
-            this.bntMessageBox4 = new System.Windows.Forms.Button();
+            this.bntExemplo1 = new System.Windows.Forms.Button();
+            this.bntExemplo2 = new System.Windows.Forms.Button();
+            this.txtSelecao = new System.Windows.Forms.TextBox();
+            this.Seleção = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // bntMessageBox1
+            // bntExemplo1
             // 
-            this.bntMessageBox1.Location = new System.Drawing.Point(54, 12);
-            this.bntMessageBox1.Name = "bntMessageBox1";
-            this.bntMessageBox1.Size = new System.Drawing.Size(127, 78);
-            this.bntMessageBox1.TabIndex = 0;
-            this.bntMessageBox1.Text = "Message Box 1";
-            this.bntMessageBox1.UseVisualStyleBackColor = true;
-            this.bntMessageBox1.Click += new System.EventHandler(this.bntMessageBox1_Click);
+            this.bntExemplo1.Location = new System.Drawing.Point(169, 244);
+            this.bntExemplo1.Name = "bntExemplo1";
+            this.bntExemplo1.Size = new System.Drawing.Size(127, 78);
+            this.bntExemplo1.TabIndex = 1;
+            this.bntExemplo1.Text = "Exemplo 1";
+            this.bntExemplo1.UseVisualStyleBackColor = true;
+            this.bntExemplo1.Click += new System.EventHandler(this.bntExemplo1_Click);
             // 
-            // bntMessageBox2
+            // bntExemplo2
             // 
-            this.bntMessageBox2.Location = new System.Drawing.Point(54, 124);
-            this.bntMessageBox2.Name = "bntMessageBox2";
-            this.bntMessageBox2.Size = new System.Drawing.Size(127, 78);
-            this.bntMessageBox2.TabIndex = 1;
-            this.bntMessageBox2.Text = "Message Box 2";
-            this.bntMessageBox2.UseVisualStyleBackColor = true;
+            this.bntExemplo2.Location = new System.Drawing.Point(436, 244);
+            this.bntExemplo2.Name = "bntExemplo2";
+            this.bntExemplo2.Size = new System.Drawing.Size(127, 78);
+            this.bntExemplo2.TabIndex = 2;
+            this.bntExemplo2.Text = "Exemplo 2";
+            this.bntExemplo2.UseVisualStyleBackColor = true;
+            this.bntExemplo2.Click += new System.EventHandler(this.bntExemplo2_Click);
             // 
-            // bntMessageBox3
+            // txtSelecao
             // 
-            this.bntMessageBox3.Location = new System.Drawing.Point(54, 229);
-            this.bntMessageBox3.Name = "bntMessageBox3";
-            this.bntMessageBox3.Size = new System.Drawing.Size(127, 78);
-            this.bntMessageBox3.TabIndex = 2;
-            this.bntMessageBox3.Text = "Message Box 3";
-            this.bntMessageBox3.UseVisualStyleBackColor = true;
+            this.txtSelecao.Location = new System.Drawing.Point(169, 170);
+            this.txtSelecao.Name = "txtSelecao";
+            this.txtSelecao.Size = new System.Drawing.Size(394, 20);
+            this.txtSelecao.TabIndex = 3;
             // 
-            // bntMessageBox4
+            // Seleção
             // 
-            this.bntMessageBox4.Location = new System.Drawing.Point(54, 338);
-            this.bntMessageBox4.Name = "bntMessageBox4";
-            this.bntMessageBox4.Size = new System.Drawing.Size(127, 78);
-            this.bntMessageBox4.TabIndex = 3;
-            this.bntMessageBox4.Text = "Message Box 4";
-            this.bntMessageBox4.UseVisualStyleBackColor = true;
+            this.Seleção.AutoSize = true;
+            this.Seleção.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Seleção.Location = new System.Drawing.Point(284, 98);
+            this.Seleção.Name = "Seleção";
+            this.Seleção.Size = new System.Drawing.Size(161, 42);
+            this.Seleção.TabIndex = 4;
+            this.Seleção.Text = "Seleção";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.bntMessageBox4);
-            this.Controls.Add(this.bntMessageBox3);
-            this.Controls.Add(this.bntMessageBox2);
-            this.Controls.Add(this.bntMessageBox1);
+            this.Controls.Add(this.Seleção);
+            this.Controls.Add(this.txtSelecao);
+            this.Controls.Add(this.bntExemplo2);
+            this.Controls.Add(this.bntExemplo1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Aula 09/08/23";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Button bntMessageBox1;
-        private System.Windows.Forms.Button bntMessageBox2;
-        private System.Windows.Forms.Button bntMessageBox3;
-        private System.Windows.Forms.Button bntMessageBox4;
+        private System.Windows.Forms.Button bntExemplo1;
+        private System.Windows.Forms.Button bntExemplo2;
+        private System.Windows.Forms.TextBox txtSelecao;
+        private System.Windows.Forms.Label Seleção;
     }
 }
 

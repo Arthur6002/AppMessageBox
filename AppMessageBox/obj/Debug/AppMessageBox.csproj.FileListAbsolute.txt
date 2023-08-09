@@ -9,3 +9,14 @@ C:\Users\Usuario\source\repos\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBo
 C:\Users\Usuario\source\repos\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.exe
 C:\Users\Usuario\source\repos\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.pdb
+C:\Users\Usuario\AppMessageBox\AppMessageBox\bin\Debug\AppMessageBox.exe.config
+C:\Users\Usuario\AppMessageBox\AppMessageBox\bin\Debug\AppMessageBox.exe
+C:\Users\Usuario\AppMessageBox\AppMessageBox\bin\Debug\AppMessageBox.pdb
+C:\Users\Usuario\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.csproj.AssemblyReference.cache
+C:\Users\Usuario\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.Form1.resources
+C:\Users\Usuario\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.Properties.Resources.resources
+C:\Users\Usuario\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.csproj.GenerateResource.cache
+C:\Users\Usuario\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.exe
+C:\Users\Usuario\AppMessageBox\AppMessageBox\obj\Debug\AppMessageBox.pdb
